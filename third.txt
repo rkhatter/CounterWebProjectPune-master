@@ -1,3 +1,5 @@
 
 this is 3rd file:wq
 
+changing
+making changes
